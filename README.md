@@ -1,2 +1,4 @@
 # Network-traffic-analysis-
-This project focuses on network traffic analysis using Wireshark to explore packet-level communication between hosts. It covers data capture, protocol dissection (TCP,UDP,HTTP,DNS) and detection of anomalies or potential indicators of compromise (IOCS). Designed to strengthen practical incident investigation and network defense skills.
+This project demonstrates how to capture, inspect and analyze network traffic using Wireshark. The goal was to understand packet structures, identify communication patterns, and detect potential anomalies within a simulated network
+Project Overview
+I performed
